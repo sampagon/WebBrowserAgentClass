@@ -1,0 +1,1 @@
+python -m browser.tests.screenshot_test
